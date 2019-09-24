@@ -1,4 +1,7 @@
 # Ovee Issues
+
+*Ovee is not perfect.... yet*
+
 This is the public repository for Ovee bugs and issues, which can be entered by clicking the "Issues" tab, and then clicking "New Issue".
 
 Use the following syntax in the issue title:
